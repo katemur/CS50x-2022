@@ -1,0 +1,4 @@
+ask user for wanted height
+if height is less than 1 or greater than 8, ask again
+create a loop to iterate from 1 to height
+in iteration print i hashes and a newline
